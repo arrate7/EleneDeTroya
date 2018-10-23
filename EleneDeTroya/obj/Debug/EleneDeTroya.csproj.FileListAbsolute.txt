@@ -1,0 +1,7 @@
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\bin\Debug\EleneDeTroya.exe.config
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\bin\Debug\EleneDeTroya.exe
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\bin\Debug\EleneDeTroya.pdb
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\obj\Debug\EleneDeTroya.csprojAssemblyReference.cache
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\obj\Debug\EleneDeTroya.csproj.CoreCompileInputs.cache
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\obj\Debug\EleneDeTroya.exe
+C:\Users\arrat\source\repos\EleneDeTroya\EleneDeTroya\obj\Debug\EleneDeTroya.pdb
